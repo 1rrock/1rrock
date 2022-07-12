@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zxcv1685.github.io/)](https://zxcv1685.github.io/)
 
 <!--
 **zxcv1685/zxcv1685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
