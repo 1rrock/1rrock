@@ -1,5 +1,5 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zxcv1685.github.io/)](https://zxcv1685.github.io/)
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=codepen&logoColor=white"/>
+<img src="https://img.shields.io/badge/codepen-000000?style=flat-square&logo=codepen&logoColor=white"/>
 
 
 <!--
