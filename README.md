@@ -5,7 +5,7 @@
 ## Studying
 <a href="https://zxcv1685.gitbook.io/a/"><img src="https://img.shields.io/badge/JAVASCRIPT-FFCA28?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a href="https://zxcv1685.gitbook.io/react/"><img src="https://img.shields.io/badge/REACT-0000ff?style=flat-square&logo=react&logoColor=white"/></a>
-<a href="https://zxcv1685.gitbook.io/mysql/"><img src="https://img.shields.io/badge/MYSQL-ffa500?style=flat-square&logo=mysql&logoColor=white"/></a>
+<a href="https://zxcv1685.gitbook.io/mysql/"><img src="https://img.shields.io/badge/MYSQL-Purple?style=flat-square&logo=mysql&logoColor=white"/></a>
 
 
 <!--
