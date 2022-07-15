@@ -7,7 +7,7 @@
 <a href="https://zxcv1685.gitbook.io/react/"><img src="https://img.shields.io/badge/REACT-0000ff?style=flat-square&logo=react&logoColor=white"/></a>
 <a href="https://zxcv1685.gitbook.io/mysql/"><img src="https://img.shields.io/badge/MYSQL-Purple?style=flat-square&logo=mysql&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcv1685&show_icons=true&theme=radical)
 
 <!--
 **zxcv1685/zxcv1685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
