@@ -1,8 +1,6 @@
-## Link
+## Tech
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zxcv1685.github.io/)](https://zxcv1685.github.io/)
 <a href="https://codepen.io/zxcv1685"><img src="https://img.shields.io/badge/codepen-000000?style=flat-square&logo=codepen&logoColor=white"/></a>
-
-## Studying
 <a href="https://zxcv1685.gitbook.io/a/"><img src="https://img.shields.io/badge/JAVASCRIPT-FFCA28?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a href="https://zxcv1685.gitbook.io/react/"><img src="https://img.shields.io/badge/REACT-0000ff?style=flat-square&logo=react&logoColor=white"/></a>
 <a href="https://zxcv1685.gitbook.io/mysql/"><img src="https://img.shields.io/badge/MYSQL-Purple?style=flat-square&logo=mysql&logoColor=white"/></a>
