@@ -1,5 +1,5 @@
 # CAREER
-[2021.03.02 ~ 2022.05.01] <ILLSCHOOL>FRONT_END_DEVELOPER</ILLSCHOOL>
+[2021.03.02 ~ 2022.05.01] <ILLSCHOOL>FRONT_END_DEVELOPER</ILLSCHOOL> <br />
 [2022.05.23 ~ NOW] <BLUEGA>FRONT_END_DEVELOPER</BLUEGA>
 # TECH 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zxcv1685.github.io/)](https://zxcv1685.github.io/)
