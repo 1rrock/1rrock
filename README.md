@@ -1,4 +1,7 @@
-# TECH ✨
+# CAREER
+[2021.03.02 ~ 2022.05.01] <ILLSCHOOL>FRONT_END_DEVELOPER</ILLSCHOOL>
+[2022.05.23 ~ NOW] <BLUEGA>FRONT_END_DEVELOPER</BLUEGA>
+# TECH 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zxcv1685.github.io/)](https://zxcv1685.github.io/)
 <a href="https://codepen.io/zxcv1685"><img src="https://img.shields.io/badge/codepen-000000?style=flat-square&logo=codepen&logoColor=white"/></a>
 <a href="https://zxcv1685.gitbook.io/a/"><img src="https://img.shields.io/badge/JAVASCRIPT-FFCA28?style=flat-square&logo=javascript&logoColor=white"/></a>
